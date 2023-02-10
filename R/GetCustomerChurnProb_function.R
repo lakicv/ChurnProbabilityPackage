@@ -1,4 +1,4 @@
-setwd("~/Downloads/R/day5/")
+#setwd("~/Downloads/R/day5/")
 #install.packages("data.table")
 library(data.table)
 
